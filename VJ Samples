@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cologne Shop</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif; /* Set font to Times New Roman */
+            background-color: #f9f9f9;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+            margin-top: 50px;
+        }
+        .sample-image {
+            max-width: 100%;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            margin: 20px;
+        }
+        .highlighted-text {
+            background-color: #FFFF00;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to VJ Samples</h1>
+    <p>Your source for exquisite samples!</p>
+
+    <div class="sample-images">
+        <a href="https://www.fragrantica.com/perfume/Paco-Rabanne/Invictus-Platinum-72557.html"><img src="https://media.ulta.com/i/ulta/2595163?w=1020&h=1020" width="200
+        " height="200" alt="Description of the image"></a>
+        <a href="https://www.fragrantica.com/perfume/Chanel/Bleu-de-Chanel-Eau-de-Parfum-25967.html"><img src="https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_620/bleu-de-chanel-eau-de-parfum-spray-3-4fl-oz--packshot-default-107360-9539149398046.jpg" width="220" height="225" alt="Description of the image"></a>
+        <a href="https://www.fragrantica.com/perfume/Tom-Ford/Ombre-Leather-Parfum-68716.html"><img src="https://media.ulta.com/i/ulta/2584877?w=720&h=720&fmt=webp" width="200" height="200" alt="Description of the image"></a>
+ <a href="https://www.fragrantica.com/perfume/Prada/Luna-Rossa-Ocean-Eau-de-Parfum-81280.html"><img src="https://www.telegraph.co.uk/content/dam/luxury/2021/09/20/150121-FLACON-ETUIS-OCEAN-01_trans_NvBQzQNjv4BqY50wsCy9BL0-g84aoisWGXuqFFkW70PKKitnWUGuSbY.png" width="200" height="200" alt="Description of the image"></a>
+        <a href="https://www.fragrantica.com/perfume/Valentino/Valentino-Uomo-Born-in-Roma-55963.html"><img src="https://mintedscents.com/cdn/shop/files/s2302099-main-zoom-removebg.png?v=1688600102&width=700" width="200" height="200" alt="Description of the image"></a>
+        <!-- Add more sample images here --> 
+    </div>
+
+    <p>Explore our collection of mesmerizing scents.</p>
+    <p>Stay tuned for new arrivals!</p>
+
+    <p>Want to stand out? Try our <span class="highlighted-text">highlighted fragrances</span>!</p>
+</body>
+</html>
+
